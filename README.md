@@ -1,7 +1,8 @@
 simple-todos MAC ONLY
 ============
+CANNOT run this through gh-pages. Need to connect MongoDB someway if we want to web host this.
 
-A very some todo app created through meteor
+A very simple todo app created through meteor
 
 In order to run this, install meteor: https://www.meteor.com/ <br>
 In terminal type: curl https://install.meteor.com/ | sh
